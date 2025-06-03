@@ -1,5 +1,5 @@
 import random
-import bentuk
+import day4.bentuk as bentuk
 # randomInt = random.randint(1,10)
 # print(randomInt)
 
